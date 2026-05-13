@@ -42,4 +42,5 @@ For bookings or inquiries, contact via WhatsApp at +46 76 000 00 08.
 
 © 2026 PoojaPath.se
 
+## Preview
 <img width="1917" height="864" alt="image" src="https://github.com/user-attachments/assets/987540cb-7fcc-48a3-a3ee-e5082693afa4" />
